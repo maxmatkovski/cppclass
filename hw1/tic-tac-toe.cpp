@@ -24,7 +24,7 @@ string player1, player2;
 
 // Declare Classes
 class Game {
-public:
+	public:
 
 };
 
